@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dt7rjg2rsi0odt78?svg=true)](https://ci.appveyor.com/project/Maskinka/ci-appveyor)
